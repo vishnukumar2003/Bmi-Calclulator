@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+<string name="develop">DEVELOPED BY VISHNUKUMAR</string>
+    <string name="height">ENTER YOUR HEIGHT</string>
+    <string name="weight">ENTER YOUR WEIGHT</string>
+    <string name="under">UNDER WEIGHT</string>
+    <string name="normal">NORMAL WEIGHT</string>
+    <string name="Over">OVER WEIGHT</string>
+    <string name="obesity">OBESITY</string>
+</resources>
